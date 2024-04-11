@@ -22,6 +22,29 @@ O projeto está estruturado da seguinte forma:
 - `notebooks/`: Notebooks Jupyter contendo o código utilizado para a análise e visualização dos dados.
 - `images/`: Imagens ou gráficos gerados durante a análise.
 
+** Resultados e Insights
+Durante a análise, foram obtidos diversos insights sobre os dados, tais como:
+
+- Tendências de vendas ao longo do tempo.
+- Relações entre variáveis-chave nos dados.
+- Padrões sazonais ou cíclicos nos dados.
+
+## Contribuição
+Contribuições são bem-vindas! Para contribuir com este projeto, siga estas etapas:
+
+- Faça um fork do repositório.
+- Crie uma nova branch (git checkout -b feature/nova-feature).
+- Faça suas alterações e adicione novas funcionalidades.
+- Faça commit das suas alterações (git commit -am 'Adicionar nova feature').
+- Faça push para a branch (git push origin feature/nova-feature).
+- Abra um pull request.
+
+## Autor
+Mauricio Souza da Silva
+
+## Licença
+Este projeto está licenciado sob a MIT License.
+
 ## Instalação e Execução
 
 1. **Clonar o Repositório:**
